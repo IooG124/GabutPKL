@@ -216,7 +216,7 @@ nav{
 
 /* ================================== About ======================================== */
 #about{
-    height: 90vh;
+    height: calc(fit-content+100px);
 }
 .about-main{
     height: 100%;
