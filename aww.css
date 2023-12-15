@@ -306,3 +306,7 @@ nav{
     border-radius: 10px;
     margin-right: .5rem;
 }
+#project{
+    height: 90vh;
+    background-color: #fff;
+}
